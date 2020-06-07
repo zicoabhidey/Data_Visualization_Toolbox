@@ -14,6 +14,7 @@ The main purpose of this project is to illustrate different data visualization t
 10. Histogram
 11. Regression Plot
 12. Word Cloud (From Andreas Mueller)
+13. Folium Map and Clustering (Github does not show maps [view in nbviewer](https://nbviewer.jupyter.org/github/zicoabhidey/Data_Visualization_Toolbox/blob/master/folium.ipynb))
 
 ## Instruction
 This is jupyter notebook. Install jupyterlab to view and run it.
