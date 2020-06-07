@@ -15,4 +15,6 @@ The main purpose of this project is to illustrate different data visualization t
 11.Regression Plot
 12.Word Cloud (From Andreas Mueller)
 
-
+## Instruction
+This is jupyter notebook. Install jupyterlab to view and run it.
+https://jupyter.org/install
