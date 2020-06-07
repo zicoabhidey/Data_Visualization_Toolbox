@@ -11,9 +11,9 @@ The main purpose of this project is to illustrate different data visualization t
 7. Sub Plotting
 8. Scatter Plot
 9. Bubble Plot
-10.Histogram
-11.Regression Plot
-12.Word Cloud (From Andreas Mueller)
+10. Histogram
+11. Regression Plot
+12. Word Cloud (From Andreas Mueller)
 
 ## Instruction
 This is jupyter notebook. Install jupyterlab to view and run it.
